@@ -1,2 +1,2 @@
 # E-learning-Web
-This is an Educational Website
+Description: A responsive educational platform landing page designed for online courses and e-learning services. The site offers a clean UI and structured layout for users to explore educational content easily.
